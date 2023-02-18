@@ -1,0 +1,47 @@
+body {
+  background-color: rgb(95, 82, 82);
+}
+
+.container {
+  text-align: center;
+  display: flex;
+}
+
+h1 {
+  font-family: "Lobster Two", cursive;
+  color: aqua;
+  text-align: center;
+  margin: 50px;
+  font-size: 110px;
+  text-shadow: 5px 0 #232931;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ecca3;
+  font-family: "Indie Flower", cursive;
+  text-align: center;
+  padding: 30% auto 10%;
+}
+
+.dice1 {
+  width: 10rem;
+  display: inline-block;
+  margin: 50px 80px;
+}
+
+.dice2 {
+  width: 10rem;
+  display: inline-block;
+  margin: 50px 50px;
+}
+
+.p1 {
+  margin: 0 auto;
+  margin-right: 0;
+}
+
+.p2 {
+  margin: 0 auto;
+  margin-left: 0;
+}
